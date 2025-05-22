@@ -1,1 +1,2 @@
 # Heart-Disease-Predictions
+A Heart Disease Prediction project uses machine learning to analyze health indicators like age, cholesterol levels, and blood pressure to assess heart disease risk. It involves collecting medical data, preprocessing it to remove inconsistencies, extracting relevant features, and training models like Logistic Regression or Random Forest.The model is then evaluated using metrics such as accuracy and AUC-ROC.Once optimized, it can be deployed using Flask or FastAPI enabling real-time predictions for healthcare applications.
